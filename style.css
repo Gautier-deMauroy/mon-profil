@@ -1,0 +1,43 @@
+/* Couleurs et polices */
+
+body {
+	background: #FFFFFF;
+	color: rgb(20, 20, 20);
+	font-family: 'Baskerville', serif;
+	font-size: 16px;
+	font-weight: lighter;
+	justify-content: justify;
+}	 
+
+h1, h2 {
+	font-family: 'Arimo', sans-serif;
+	justify-content: center;
+}
+h1 {
+	color : #B71A53;
+	font-size: 36px;
+	justify-content: center;
+	font-weight: bold;
+	font-weight: 700;
+}
+
+h2 {
+	color :#7D96BC;
+	font-size: 36px;
+	justify-content: center;
+	font-weight: bold;
+	font-weight: 400;
+}
+
+a {
+	font-family: 'Baskerville', serif;
+	color : #7D96BC;
+	justify-content: justify;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #B71A53;
+
+div {
